@@ -2,7 +2,7 @@
 SuperSocial - Christmas Tree Interview
 
 # task
-Using only code, create a ModuleScript which generates a christmas tree in 3D space. The height of the christmas tree should vary randomly each time the function is called, and you should only use basic Parts.
+Create a ModuleScript which generates a christmas tree in 3D space, using only code. The height of the christmas tree should vary randomly each time the function is called, and you should only use basic Parts.
 
 ### Notes:
 1. Your christmas tree should have at least two types of part: trunk and leaves. If you get time, feel free to add other features to your tree such as baubles, a star, or tinsel.

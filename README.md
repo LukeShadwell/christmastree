@@ -13,3 +13,6 @@ Some other ideas of additions:
 - Making the tree cone shaped (rather then rectangular)
 - Decorate your tree
 - Make the trunk larger at the bottom and smaller at the top
+
+Bonus
+Use Rojo & VSCode, and push your finished version to a github repository.

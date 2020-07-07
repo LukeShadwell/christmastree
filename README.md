@@ -14,5 +14,5 @@ Some other ideas of additions:
 - Decorate your tree
 - Make the trunk larger at the bottom and smaller at the top
 
-Bonus
+## Bonus:
 Use Rojo & VSCode, and push your finished version to a github repository.

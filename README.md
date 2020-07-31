@@ -17,5 +17,6 @@ Some other ideas of additions:
 ### Bonus:
 Use Rojo & VSCode, and push your finished version to a github repository.
 
-### Example Tree:
+### Example Trees:
 https://cdn.discordapp.com/attachments/697258185349660754/730079126886809610/unknown.png
+https://cdn.discordapp.com/attachments/500033967504752670/738724787089571890/unknown.png
